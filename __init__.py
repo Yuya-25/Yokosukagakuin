@@ -1,1 +1,2 @@
-"""Site accounts, VIP contracts, and purchase direct messages."""
+"""AUTOCAT JP chat package."""
+
